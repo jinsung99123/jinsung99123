@@ -13,7 +13,7 @@ Flutter & Android 개발을 좋아하는 개발자입니다.
 
 ## 🛠️ Tech Stack
 
-![Flutter](링크)  
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) 
 ![Dart](링크)  
 ![Kotlin](링크)  
 ![Java](링크)  
@@ -33,30 +33,24 @@ Flutter & Android 개발을 좋아하는 개발자입니다.
 
 ## 🌟 Projects
 
-### Sodong (소소한 동네)
+### TravelMuse
 [![Sodong](링크)](링크)  
-- 동네 기반 커뮤니티 앱  
+- AI 기반 여행 일정 자동 추천 
 - Flutter, Firebase 활용  
 - Google Play Store: [링크](링크)
 
-### Project 2
+### Sodong (소소한 동네)
 [![Project2](링크)](링크)  
-- 간단한 프로젝트 설명  
+- 위치 기반 소셜 네트워킹 플랫폼
 - 사용 기술: Flutter, Kotlin 등
-
-### Project 3
-[![Project3](링크)](링크)  
-- 간단한 프로젝트 설명  
-- 사용 기술: Dart, Firebase 등
 
 ---
 
 ## 📫 Contact
 
-- Email: (링크)  
-- LinkedIn: (링크)  
+- Email: felix_son@naver.com  
 - GitHub: [jinsung99123](https://github.com/jinsung99123)
 
 ---
 
-> ⚡ Fun fact: 항상 새로운 기술을 배우고, 작은 프로젝트도 놓치지 않고 완성합니다!
+> ⚡ Fun fact: 항상 새로운 기술을 배우고, 재밌게 프로젝트를 완성하고 싶습니다.
