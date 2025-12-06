@@ -34,15 +34,11 @@ Flutter & Android 개발을 좋아하는 개발자입니다.
 ## 🌟 Projects
 
 ### TravelMuse
- 
-- AI 기반 여행 일정 자동 추천 
-- Flutter, Firebase 활용  
-- Google Play Store: [링크](링크)
+- AI 기반 여행 일정 자동 추천 앱
 
 ### Sodong (소소한 동네)
-[![Project2](링크)](링크)  
 - 위치 기반 소셜 네트워킹 플랫폼
-- 사용 기술: Flutter, Kotlin 등
+
 
 ---
 
