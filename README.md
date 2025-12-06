@@ -2,9 +2,9 @@
      GitHub Profile README
 =========================== -->
 
-# 👋 안녕하세요! 손진입니다.
+# 👋 안녕하세요! 손진성입니다.
 
-![Profile](링크) <!-- 프로필 이미지 -->
+![Profile](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Jinsung%20Son&fontAlign=50&desc=Flutter%20Developer&descAlignY=61&fontAlignY=30)
 
 Flutter & Android 개발을 좋아하는 개발자입니다.  
 📍 대한민국 | 💻 Flutter / Kotlin / Android | 🚀 항상 성장하는 개발자
@@ -34,7 +34,7 @@ Flutter & Android 개발을 좋아하는 개발자입니다.
 ## 🌟 Projects
 
 ### TravelMuse
-[![Sodong](링크)](링크)  
+ 
 - AI 기반 여행 일정 자동 추천 
 - Flutter, Firebase 활용  
 - Google Play Store: [링크](링크)
